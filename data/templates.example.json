@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Example Token",     //required - token name
+    "symbol": "EXMPL",    //required - token symbol (recommended to use CAPTIAL LETTERS)
+    "desc": "Demo token used to illustrate configuration fields.",    //required - token description
+    "imagePath": "./assets/sample-token.png",   //required - token image
+    "label": "Meme", //required - Choose one Meme/AI/Defi/Games/Infra/De-Sci/Social/Depin/Charity/Others 
+    "presaleBNB": "0.01", //required - this is the amount in BNB the dev wallet buys
+    "onlyMPC": false,   //DONT CHANGE - read docs for more info
+    "webUrl": "https://example.com", //optional - leave "" empty if not needed
+    "twitterUrl": "https://twitter.com/example",//optional - leave "" empty if not needed
+    "telegramUrl": "https://t.me/example",//optional - leave "" empty if not needed
+    "launchDelayMs": 6000, //delay between launches in ms (6000ms = 6 seconds)
+    "rpcUrl": "https://..quiknode.pro/<your-endpoint>/", //optional - you ca add differnt rpcUrl's per token or leave blank to use global rpcUrl in env
+    "approveAfterCreate": true, //optional - approve spending (allows you to sell tokens straight away)
+    "approveSpender": "0x5c952063c7fc8610FFDB798152D69F0B9550762b", //DONT CHANGE - TokenManager2 contract - Verfiy contract in docs/
+    "approveAmountTokens": "1000000000", //optional - amount of tokens to approve spending
+    "wallet": {
+      "accountAddress": "0xYourWalletAddress", //required
+      "privateKey": "0xYourPrivateKey" //required
+    }
+  },
+  //CREATE AS MANY TEMPLATES AS NEEDED
+  {
+    "name": "Example Token 2",  
+    "symbol": "EXMPL2",  
+    "desc": "Demo token used to illustrate configuration fields 2.",  
+    "imagePath": "./assets/sample-token-2.png",
+    "label": "Meme",
+    "presaleBNB": "0.01", 
+    "onlyMPC": false, 
+    "webUrl": "https://example2.com",
+    "twitterUrl": "https://twitter.com/example2",
+    "telegramUrl": "https://t.me/example2",
+    "launchDelayMs": 6000,
+    "rpcUrl": "https://..quiknode.pro/<your-endpoint>/", 
+    "approveAfterCreate": true, 
+    "approveSpender": "0x5c952063c7fc8610FFDB798152D69F0B9550762b", 
+    "approveAmountTokens": "1000000000", 
+    "wallet": {
+      "accountAddress": "0xYourWalletAddress", 
+      "privateKey": "0xYourPrivateKey" 
+    }
+  }
+
+]

@@ -1,0 +1,21 @@
+{
+  "name": "test_token",
+  "version": "1.0.0",
+  "description": "Utility for preparing and launching Four.meme tokens on BSC.",
+  "main": "src/tokenCreator.js",
+  "type": "module",
+  "scripts": {
+    "launch": "node src/tokenCreator.js",
+    "start": "npm run launch",
+    "test": "echo \"No automated tests specified\" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "dotenv": "^17.2.3",
+    "ethers": "^6.15.0",
+    "form-data": "^4.0.4"
+  }
+}
